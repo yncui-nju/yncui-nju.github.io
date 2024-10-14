@@ -21,7 +21,7 @@ redirect_from:
 I am currently a 4th-year Ph.D. Student at [Websoft Research Group](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=Websoft) at the Department of Computer Science and Technology, 
 Nanjing University, advised by [Prof. Wei Hu](http://ws.nju.edu.cn/~whu).
 
-My research interests primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning & LLMs. 
+My research interests primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
 
 # Recent News
 - [*2024.09*] One first-author paper accepted to NeurIPS'2024!
