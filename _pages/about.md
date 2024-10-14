@@ -64,9 +64,9 @@ My research interests primarily covers a range of issues: Graph Foundation Model
   - ISWC'22 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
 ## Education
-- **PhD**, Nanjing University, Department of Computer Science and Technology (2021 - present)
-- **Master**, Nanjing University of Aeronautics and Astronautics, School of Computer Science and Technology (2018 - 2021)
-- **Bachelor**, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
+- PhD, Nanjing University, Department of Computer Science and Technology (2021 - present)
+- Master, Nanjing University of Aeronautics and Astronautics, School of Computer Science and Technology (2018 - 2021)
+- Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 ## Awards
 - 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2023) *￥12,000*
