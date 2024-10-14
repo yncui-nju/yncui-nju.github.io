@@ -69,25 +69,25 @@ My research interests primarily covers a range of issues: Graph Foundation Model
 - **Bachelor**, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 ## Awards
-- **1st-Class Academic Scholarship for Graduate Students**, Nanjing University (2023) *￥12,000*
-- **Special Scholarship from NARI**, Nanjing University (2023) *￥8,000*
-- **1st-Class Academic Scholarship for Graduate Students**, Nanjing University (2022) *￥10,000*
-- **1st-class Graduate Scholarship for Outstanding Talent**, Nanjing University (2022) *￥5,000*
-- **Huawei Special Scholarship**, NUAA (2020) *￥8,000*
-- **1st-Class Academic Scholarship for Graduate Students**, NUAA (2020) *￥10,000*
-- **Merit Student Award Winners**, NUAA (2020)
-- **Outstanding Individual in Research and Innovation**, NUAA (2020)
-- **1st-Class Academic Scholarship for Graduate Students**, NUAA (2019) *￥10,000*
-- **Merit Student Award Winners**, NUAA (2019)
-- **Outstanding Individual in Research and Innovation**, NUAA (2019)
+- 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2023) *￥12,000*
+- Special Scholarship from NARI, Nanjing University (2023) *￥8,000*
+- 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2022) *￥10,000*
+- 1st-class Graduate Scholarship for Outstanding Talent, Nanjing University (2022) *￥5,000*
+- Huawei Special Scholarship, NUAA (2020) *￥8,000*
+- 1st-Class Academic Scholarship for Graduate Students, NUAA (2020) *￥10,000*
+- Merit Student Award Winners, NUAA (2020)
+- Outstanding Individual in Research and Innovation, NUAA (2020)
+- 1st-Class Academic Scholarship for Graduate Students, NUAA (2019) *￥10,000*
+- Merit Student Award Winners, NUAA (2019)
+- Outstanding Individual in Research and Innovation, NUAA (2019)
 
 
 ## Project
-- **Jiangsu Province Graduate Innovation Program** (2023 - 2024)
-  - **Title**: Lifelong Representation Learning for Growing Knowledge Graphs
-  - **Role**: Project Lead
-  - **Funding**: *￥15,000*
-  - **Description**: This project aims to develop a lifelong representation learning framework for growing knowledge graphs, which can effectively capture the dynamic changes of entities and relations in the knowledge graph.
+- Jiangsu Province Graduate Innovation Program (2023 - 2024)
+  - Title: Lifelong Representation Learning for Growing Knowledge Graphs
+  - Role: Project Lead
+  - Funding: *￥15,000*
+  - Description: This project aims to develop a lifelong representation learning framework for growing knowledge graphs, which can effectively capture the dynamic changes of entities and relations in the knowledge graph.
 
   
 # Teaching
