@@ -32,7 +32,7 @@ My research interests primarily covers a range of issues: Graph Foundation Model
 
 # Publications
 - Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
-  - <u>Yuanning Cui</u>, Zequn sun, Wei Hu
+  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
   - NeurIPS'24 \[[Paper](#)\|[Code](https://github.com/nju-websoft/KG-ICL)\] 
 
 - A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
@@ -86,7 +86,6 @@ My research interests primarily covers a range of issues: Graph Foundation Model
 - Jiangsu Province Graduate Innovation Program (2023 - 2024)
   - Title: Lifelong Representation Learning for Growing Knowledge Graphs
   - Role: Project Lead
-  - Funding: *￥15,000*
   - Description: This project aims to develop a lifelong representation learning framework for growing knowledge graphs, which can effectively capture the dynamic changes of entities and relations in the knowledge graph.
 
   
