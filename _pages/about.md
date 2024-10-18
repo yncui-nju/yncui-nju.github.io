@@ -21,7 +21,7 @@ redirect_from:
 I am currently a 4th-year Ph.D. Student at [Websoft Research Group](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=Websoft) at the Department of Computer Science and Technology, 
 Nanjing University, advised by [Prof. Wei Hu](http://ws.nju.edu.cn/~whu).
 
-My research interests primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
+My research interest primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
 
 # Recent News
 - [*2024.09*] One first-author paper accepted to NeurIPS'2024!
@@ -31,9 +31,9 @@ My research interests primarily covers a range of issues: Graph Foundation Model
 - [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
 
 # Publications
-- Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
+- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
-  - NeurIPS'24 \[[Paper](#)\|[Code](https://github.com/nju-websoft/KG-ICL)\] 
+  - NeurIPS'24 \[[Paper](http://arxiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\] 
 
 - A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
