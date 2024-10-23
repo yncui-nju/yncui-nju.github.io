@@ -39,11 +39,11 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
   - JCRD'24 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
-- Lifelong embedding learning and transfer for growing knowledge graphs 
+- Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - AAAI'23 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311)\|[Code](https://github.com/nju-websoft/LKGE)\] 
 
-- Inductive knowledge graph reasoning for multi-batch emerging entities 
+- Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu 
   - CIKM'22 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\]  
 
