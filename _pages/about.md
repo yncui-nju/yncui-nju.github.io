@@ -51,7 +51,7 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
   - ISWC'24 \[[Paper](https://arxiv.org/pdf/2407.10430)\|[Code](https://github.com/nju-websoft/MStar)\] 
 
-- Improving continual relation extraction by distinguishing analogous semantics  
+- Improving Continual Relation Extraction by Distinguishing Analogous Semantics  
   - Wenzheng Zhao, <u>Yuanning Cui</u>, Wei Hu 
   - ACL'23 \[[Paper](https://arxiv.org/pdf/2305.06620)\|[Code](https://github.com/nju-websoft/CEAR)\] 
 
@@ -59,7 +59,7 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  
   - JoS'23 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\] 
 
-- Facing changes: continual entity alignment for growing knowledge graphs  
+- Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - ISWC'22 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
