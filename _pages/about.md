@@ -24,6 +24,7 @@ Nanjing University, advised by [Prof. Wei Hu](http://ws.nju.edu.cn/~whu).
 My research interest primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
 
 # Recent News
+- [*2024.11*] I am awarded the National Scholarship (for Ph.D. students, ¥30,000) at Nanjing University!
 - [*2024.09*] One first-author paper accepted to NeurIPS'2024!
 - [*2024.07*] Invited by [CCDM 2024](https://ccf.org.cn/CCDM2024/general_3024) to give a talk on RulePrem.
 - [*2024.06*] One second-author paper accepted to ISWC'2024!
@@ -69,6 +70,7 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 - Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 ## Awards
+- National Scholarship for Ph.D. Students, Nanjing University (2024) *￥30,000*
 - 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2023) *￥12,000*
 - Special Scholarship from NARI, Nanjing University (2023) *￥8,000*
 - 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2022) *￥10,000*
