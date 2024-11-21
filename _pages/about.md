@@ -24,6 +24,7 @@ Nanjing University, advised by [Prof. Wei Hu](http://ws.nju.edu.cn/~whu).
 My research interest primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
 
 # Recent News
+- [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL!
 - [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
 - [*2024.11*] I am awarded the National Scholarship (for Ph.D. students, ¥30,000) at Nanjing University!
 - [*2024.09*] One first-author paper accepted to NeurIPS'2024!
