@@ -23,15 +23,29 @@ Nanjing University, advised by [Prof. Wei Hu](http://ws.nju.edu.cn/~whu).
 
 My research interest primarily covers a range of issues: Graph Foundation Model, Knowledge graph, Lifelong Learning, and LLMs. 
 
-# Recent News
-- [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL!
-- [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
-- [*2024.11*] I am awarded the National Scholarship (for Ph.D. students, ¥30,000) at Nanjing University!
-- [*2024.09*] One first-author paper accepted to NeurIPS'2024!
-- [*2024.07*] Invited by [CCDM 2024](https://ccf.org.cn/CCDM2024/general_3024) to give a talk on RulePrem.
-- [*2024.06*] One second-author paper accepted to ISWC'2024!
-- [*2024.05*] One first-author paper accepted to JCRD'2024!
-- [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
+## Education
+- PhD, Nanjing University, Department of Computer Science and Technology (2021 - present)
+- Master, Nanjing University of Aeronautics and Astronautics, School of Computer Science and Technology (2018 - 2021)
+- Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
+
+
+[comment]: <> (# Recent News)
+
+[comment]: <> (- [*2024.11*] Invited by OpenKG to give a [talk]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf&#41; on KG-ICL!)
+
+[comment]: <> (- [*2024.11*] Invited by [LMG 2024]&#40;http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html&#41; to show our [poster]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf&#41; about KG-ICL!)
+
+[comment]: <> (- [*2024.11*] I am awarded the National Scholarship &#40;for Ph.D. students, ¥30,000&#41; at Nanjing University!)
+
+[comment]: <> (- [*2024.09*] One first-author paper accepted to NeurIPS'2024!)
+
+[comment]: <> (- [*2024.07*] Invited by [CCDM 2024]&#40;https://ccf.org.cn/CCDM2024/general_3024&#41; to give a talk on RulePrem.)
+
+[comment]: <> (- [*2024.06*] One second-author paper accepted to ISWC'2024!)
+
+[comment]: <> (- [*2024.05*] One first-author paper accepted to JCRD'2024!)
+
+[comment]: <> (- [*2024.05*] One research project &#40;led by me&#41; under the Jiangsu Province Graduate Innovation Program, successfully concluded!)
 
 # Publications
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
@@ -50,6 +64,14 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu 
   - CIKM'22 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\]  
 
+- Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
+  - <u>Yuanning Cui</u>, Jing Li
+  - JCRD'21 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKtc4FpRZ_npEhOH67AFVU4YUiOJ92biM_SyDcok6fa2JXgmBnySs_3kM-bQrTboNvAp-2Xh69dWDl3ccW3t6mdzFXZ0AEMkUrWwmA5Nx5oaU4WrAxDkKTCer886ZZ0Zma1d86Jr03jjAXuL2tR_igiORezQnkNfnHzczyumH-q3RWfIc48DFfgLSKOx1Yl8Sng=&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+
+- Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
+  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
+  - TKDE Major Revision
+
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
   - ISWC'24 \[[Paper](https://arxiv.org/pdf/2407.10430)\|[Code](https://github.com/nju-websoft/MStar)\] 
@@ -66,10 +88,6 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - ISWC'22 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
-## Education
-- PhD, Nanjing University, Department of Computer Science and Technology (2021 - present)
-- Master, Nanjing University of Aeronautics and Astronautics, School of Computer Science and Technology (2018 - 2021)
-- Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 ## Awards
 - National Scholarship for Ph.D. Students, Nanjing University (2024) *￥30,000*
@@ -78,12 +96,11 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 - 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2022) *￥10,000*
 - 1st-class Graduate Scholarship for Outstanding Talent, Nanjing University (2022) *￥5,000*
 - Huawei Special Scholarship, NUAA (2020) *￥8,000*
-- 1st-Class Academic Scholarship for Graduate Students, NUAA (2020) *￥10,000*
-- Merit Student Award Winners, NUAA (2020)
-- Outstanding Individual in Research and Innovation, NUAA (2020)
-- 1st-Class Academic Scholarship for Graduate Students, NUAA (2019) *￥10,000*
-- Merit Student Award Winners, NUAA (2019)
-- Outstanding Individual in Research and Innovation, NUAA (2019)
+- 1st-Class Academic Scholarship for Graduate Students, NUAA (2019 & 2020) *￥10,000*
+- Merit Student Award Winners, NUAA (2019 & 2020)
+- Outstanding Individual in Research and Innovation, NUAA (2019 & 2020)
+
+[comment]: <> (- 1st-Class Academic Scholarship for Graduate Students, NUAA &#40;2019&#41; *￥10,000*)
 
 
 ## Project
@@ -92,9 +109,16 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - Role: Project Lead
   - Description: This project aims to develop a lifelong representation learning framework for growing knowledge graphs, which can effectively capture the dynamic changes of entities and relations in the knowledge graph.
 
+[comment]: <> (## Reviewer)
+
+[comment]: <> (- *Conference* NeurIPS, AAAI, SIGKDD, ISWC, DASFAA, CCKS)
+
+[comment]: <> (- *Journal* TKDE, TNNLS, KBS)
   
 # Teaching
-- *Spring, 2019* Teaching Assistant, Programming Language Principles, NUAA
-- *Spring, 2022* Teaching Assistant, Knowledge Engineering, Nanjing University
 - *Spring, 2023* Teaching Assistant, Knowledge Engineering, Nanjing University
+- *Spring, 2022* Teaching Assistant, Knowledge Engineering, Nanjing University
+- *Spring, 2019* Teaching Assistant, Programming Language Principles, NUAA
+
+
 
