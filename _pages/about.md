@@ -66,7 +66,7 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 
 - Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
   - <u>Yuanning Cui</u>, Jing Li
-  - JCRD'21 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKtc4FpRZ_npEhOH67AFVU4YUiOJ92biM_SyDcok6fa2JXgmBnySs_3kM-bQrTboNvAp-2Xh69dWDl3ccW3t6mdzFXZ0AEMkUrWwmA5Nx5oaU4WrAxDkKTCer886ZZ0Zma1d86Jr03jjAXuL2tR_igiORezQnkNfnHzczyumH-q3RWfIc48DFfgLSKOx1Yl8Sng=&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+  - JCRD'20 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
