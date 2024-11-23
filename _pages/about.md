@@ -90,28 +90,28 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 
 ## Presentations
 
-- **A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**  
+- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - NeurIPS'24 poster presentation, Vancouver, Canada, December 2024
 
-- **CIPS-LGM 2024 Poster Presentation**  
+- CIPS-LGM 2024 Poster Presentation 
   - poster presentation, Jiaxing, China, November 2024
 
-- **A talk about the KG foundation model KG-ICL**  
+- A talk about the KG foundation model KG-ICL
   - OpenKG Ph.D. seminar oral presentation, Shanghai, China, November 2024
 
-- **A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts**
+- A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
   - CCDM 2024 oral presentation, Taian, China, July 2024
 
-- **A talk about dynamic KG representation learning**  
+- A talk about dynamic KG representation learning  
   - OpenKG Ph.D. seminar oral presentation, Nanjing, China, September 2023
 
-- **Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs**
+- Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs
     - AAAI'23 oral presentation (virtual event), Washington, DC, USA, February 2023
 
-- **CIPS Pre-Conference Presentation for AAAI'23**
+- CIPS Pre-Conference Presentation for AAAI'23
   - oral presentation (virtual event), Beijing China, January 2023
 
-- **Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities**
+- Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities
   - CIKM'22 oral presentation (virtual event), Atlanta, GA, USA, October 2022
 
 ## Awards
