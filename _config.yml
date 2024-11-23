@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanning Cui <br> 崔员宁"
   avatar           : "images/YNC.jpg"
+  uri              : "https://yncui-nju.github.io/"
   bio              : # "PhD Student, NJU (2021 - present)"
   location         : "Nanjing, China"
   employer         :
@@ -30,7 +31,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Cv37YxgAAAAJ&hl=en"
   email            : "yncui.nju@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
