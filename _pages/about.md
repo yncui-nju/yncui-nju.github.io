@@ -50,43 +50,43 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 # Publications
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
-  - NeurIPS'24 \[[Paper](http://arxiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\] (CCF-A)
+  - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://arxiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
 
 - A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - JCRD'24 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\] (CCF-A中文期刊)
+  - JCRD'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
 - Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
-  - AAAI'23 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311)\|[Code](https://github.com/nju-websoft/LKGE)\] （CCF-A)
+  - AAAI'23, CCF推荐A类国际会议 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311)\|[Code](https://github.com/nju-websoft/LKGE)\]
 
 - Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu 
-  - CIKM'22 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\] (CCF-B)
+  - CIKM'22, CCF推荐B类国际会议 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\]
 
 - Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
-  - JCRD'20 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\] (CCF-A中文期刊)
+  - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - TKDE *Major Revision* [Code](https://github.com/yncui-nju/CLP) (CCF-A国际期刊，大修)
+  - TKDE, CCF推荐A类国际期刊 *Major Revision* \[[Code](https://github.com/yncui-nju/CLP)\] 
 
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
-  - ISWC'24 \[[Paper](https://arxiv.org/pdf/2407.10430)\|[Code](https://github.com/nju-websoft/MStar)\] (CCF-B)
+  - ISWC'24, CCF推荐B类国际会议 \[[Paper](https://arxiv.org/pdf/2407.10430)\|[Code](https://github.com/nju-websoft/MStar)\] 
 
 - Improving Continual Relation Extraction by Distinguishing Analogous Semantics  
   - Wenzheng Zhao, <u>Yuanning Cui</u>, Wei Hu 
-  - ACL'23 \[[Paper](https://arxiv.org/pdf/2305.06620)\|[Code](https://github.com/nju-websoft/CEAR)\] (CCF-A)
+  - ACL'23, CCF推荐A类国际会议 \[[Paper](https://arxiv.org/pdf/2305.06620)\|[Code](https://github.com/nju-websoft/CEAR)\] 
 
 - Lifelong Representation Learning of Multi-sourced Knowledge Graphs via Linked Entity Replay  
   - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  
-  - JoS'23 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\] (CCF-A中文期刊)
+  - JoS'23, CCF推荐A类中文期刊 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\] 
 
 - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
-  - ISWC'22 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] (CCF-B)
+  - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
 ## Presentations
 
