@@ -70,7 +70,7 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
 
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - TKDE, CCF推荐A类国际期刊 *Major Revision* \[[Code](https://github.com/yncui-nju/CLP)\] 
+  - TKDE, CCF推荐A类国际期刊 大修 \[[Code](https://github.com/yncui-nju/CLP)\] 
 
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
