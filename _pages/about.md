@@ -134,10 +134,10 @@ My research interest primarily covers a range of issues: Graph Foundation Model,
   - Role: Project Lead
   - Description: This project aims to develop a lifelong representation learning framework for growing knowledge graphs, which can effectively capture the dynamic changes of entities and relations in the knowledge graph.
 
-## Reviewer
+## PC Member & Reviewer
 
-- *Conference* NeurIPS, AAAI, SIGKDD, ISWC, DASFAA, CCKS
-- *Journal* TKDE, TNNLS, KBS
+- Conference: NeurIPS, AAAI, SIGKDD, ACL Rolling Review, ISWC, DASFAA, ESWC, CCKS
+- Journal: TKDE, TNNLS, KBS
   
 # Teaching
 - *Spring, 2023* Teaching Assistant, Knowledge Engineering, Nanjing University
