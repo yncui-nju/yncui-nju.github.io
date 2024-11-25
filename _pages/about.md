@@ -29,23 +29,23 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 
-[comment]: <> (# Recent News)
+# Recent News
 
-[comment]: <> (- [*2024.11*] Invited by OpenKG to give a [talk]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf&#41; on KG-ICL!)
+- [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL!
 
-[comment]: <> (- [*2024.11*] Invited by [LMG 2024]&#40;http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html&#41; to show our [poster]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf&#41; about KG-ICL!)
+- [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
 
-[comment]: <> (- [*2024.11*] I am awarded the National Scholarship &#40;for Ph.D. students, ¥30,000&#41; at Nanjing University!)
+- [*2024.11*] I am awarded the National Scholarship (for Ph.D. students, ¥30,000) at Nanjing University!
 
-[comment]: <> (- [*2024.09*] One first-author paper accepted to NeurIPS'2024!)
+- [*2024.09*] One first-author paper accepted to NeurIPS'2024!
 
-[comment]: <> (- [*2024.07*] Invited by [CCDM 2024]&#40;https://ccf.org.cn/CCDM2024/general_3024&#41; to give a talk on RulePrem.)
+- [*2024.07*] Invited by [CCDM 2024](https://ccf.org.cn/CCDM2024/general_3024) to give a talk on RulePrem.
 
-[comment]: <> (- [*2024.06*] One second-author paper accepted to ISWC'2024!)
+- [*2024.06*] One second-author paper accepted to ISWC'2024!
 
-[comment]: <> (- [*2024.05*] One first-author paper accepted to JCRD'2024!)
+- [*2024.05*] One first-author paper accepted to JCRD'2024!
 
-[comment]: <> (- [*2024.05*] One research project &#40;led by me&#41; under the Jiangsu Province Graduate Innovation Program, successfully concluded!)
+- [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
 
 # Publications
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
