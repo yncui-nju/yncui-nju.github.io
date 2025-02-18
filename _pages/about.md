@@ -31,6 +31,8 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 
 # Recent News
 
+- [*2025.02*] One first-author paper accepted to TKDE'2025!
+
 - [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL at Tongji University!
 
 - [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
@@ -48,6 +50,10 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
 
 # Publications
+- Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
+  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
+  - TKDE'25, CCF推荐A类国际期刊 \[[Code](https://github.com/websoft/CLP)\] 
+
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
   - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://arxiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
@@ -67,10 +73,6 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
-
-- Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
-  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - TKDE, CCF推荐A类国际期刊 大修 \[[Code](https://github.com/yncui-nju/CLP)\] 
 
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
