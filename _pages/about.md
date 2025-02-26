@@ -44,7 +44,7 @@ redirect_from:
 [comment]: <> (  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* )
 [comment]: <> (  - JCRD'24, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
 - 基于规则提示的知识图谱通用推理预训练模型
-  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* 
+  - <u>崔员宁</u>, 孙泽群, 胡伟* 
   - 计算机研发'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 - Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
@@ -60,7 +60,7 @@ redirect_from:
 [comment]: <> (  - JCRD'20, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
 
 - Duration-HyTE: 基于持续时间建模的时间感知知识表示学习方法
-  - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
+  - <u>崔员宁</u>, 李静, 沈力, 申扬, 乔林, 薄珏
   - 计算机研发'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
 
@@ -80,7 +80,7 @@ redirect_from:
 
 [comment]: <> (  - JoS'23, CCF推荐A类中文期刊 \[[paper]&#40;https://www.jos.org.cn/josen/article/pdf/6887&#41;\|[Code]&#40;https://github.com/nju-websoft/LifeKE&#41;\])
 - 基于链接实体回放的多源知识图谱终身表示学习
-  - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  
+  - 孙泽群, <u>崔员宁</u>, 胡伟  
   - 软件学报'23, CCF推荐A类中文期刊 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\]
 - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
