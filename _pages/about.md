@@ -35,6 +35,7 @@ redirect_from:
 ## 一作论文
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
+  - TKDE'25, CCF推荐A类国际期刊 \[[Paper](https://ieeexplore.ieee.org/document/10897840)\|[Code](https://github.com/websoft/CLP)\]
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
   - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://ar*xiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
@@ -58,7 +59,7 @@ redirect_from:
 
 [comment]: <> (  - JCRD'20, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
 
-- 	Duration-HyTE: 基于持续时间建模的时间感知知识表示学习方法
+- Duration-HyTE: 基于持续时间建模的时间感知知识表示学习方法
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - 计算机研发'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
