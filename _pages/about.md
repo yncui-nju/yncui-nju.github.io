@@ -94,6 +94,11 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
+## Under-review Papers
+- LanGraph: Synergy of Language and Graph Foundation Models for Generalized Knowledge Graph Question Answering
+  - <u>Yuanning Cui</u>, Zequn Sun, Zhoutian Shao, Yang Liu, Wei Hu
+  - ACL'25在审, CCF推荐A类国际会议 
+
 ## Presentations
 
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
