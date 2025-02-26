@@ -125,6 +125,7 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities
   - CIKM'22 oral presentation (virtual event), Atlanta, GA, USA, October 2022
 
+<br>
 ## Awards
 - National Scholarship for Ph.D. Students, Nanjing University (2024) *￥30,000*
 - 1st-Class Academic Scholarship for Graduate Students, Nanjing University (2023) *￥12,000*
