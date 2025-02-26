@@ -51,6 +51,7 @@ redirect_from:
 - Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+
 ## 二作论文
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
@@ -64,10 +65,12 @@ redirect_from:
 - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
+
 ## 在审论文
 - LanGraph: Synergy of Language and Graph Foundation Models for Generalized Knowledge Graph Question Answering
   - <u>Yuanning Cui</u>, Zequn Sun, Zhoutian Shao, Yang Liu, Wei Hu
   - ACL'25在审, CCF推荐A类国际会议 
+
 ## 演讲 & 海报
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - NeurIPS'24 poster presentation, Vancouver, Canada, December 2024
@@ -102,7 +105,7 @@ redirect_from:
   - 项目名称：面向动态知识图谱的终身表示学习
   - 角色：项目负责人
   - 描述：本项目旨在开发一个针对动态知识图谱的终身表示学习框架，能够有效捕捉知识图谱中实体和关系的动态变化。
-  - 
+
 ## 会议PC & 期刊审稿
 - 会议：NeurIPS, AAAI, SIGKDD, ACL Rolling Review, ISWC, DASFAA, ESWC, CCKS
 - 期刊：TKDE, TNNLS, KBS
