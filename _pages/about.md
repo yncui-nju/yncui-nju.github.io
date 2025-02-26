@@ -29,27 +29,29 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 
-# Recent News
+[comment]: <> (# Recent News)
 
-- [*2025.02*] One first-author paper accepted to TKDE'2025!
+[comment]: <> (- [*2025.02*] One 1st-author paper accepted to TKDE'2025!)
 
-- [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL at Tongji University!
+[comment]: <> (- [*2024.11*] Invited by OpenKG to give a [talk]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf&#41; on KG-ICL at Tongji University!)
 
-- [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
+[comment]: <> (- [*2024.11*] Invited by [LMG 2024]&#40;http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html&#41; to show our [poster]&#40;https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf&#41; about KG-ICL!)
 
-- [*2024.11*] I am awarded the National Scholarship (for Ph.D. students, ¥30,000) at Nanjing University!
+[comment]: <> (- [*2024.11*] Awarded the National Scholarship!)
 
-- [*2024.09*] One first-author paper accepted to NeurIPS'2024!
+[comment]: <> (- [*2024.09*] One 1st-author paper accepted to NeurIPS'2024!)
 
-- [*2024.07*] Invited by [CCDM 2024](https://ccf.org.cn/CCDM2024/general_3024) to give a talk on RulePrem.
+[comment]: <> (- [*2024.07*] Invited by [CCDM 2024]&#40;https://ccf.org.cn/CCDM2024/general_3024&#41; to give a talk on RulePrem.)
 
-- [*2024.06*] One second-author paper accepted to ISWC'2024!
+[comment]: <> (- [*2024.06*] One 2nd-author paper accepted to ISWC'2024!)
 
-- [*2024.05*] One first-author paper accepted to JCRD'2024!
+[comment]: <> (- [*2024.05*] One 1st-author paper accepted to JCRD'2024!)
 
-- [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
+[comment]: <> (- [*2024.05*] One research project &#40;led by me&#41; under the Jiangsu Province Graduate Innovation Program, successfully concluded!)
 
 # Publications
+
+## First-author Papers
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
   - TKDE'25, CCF推荐A类国际期刊 \[[Code](https://github.com/websoft/CLP)\] 
@@ -73,6 +75,8 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+
+## Second-author Papers
 
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
