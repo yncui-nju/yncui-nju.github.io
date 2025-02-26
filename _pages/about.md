@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 # 个人简介
-我目前是南京大学计算机科学与技术系 [Websoft研究组](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=Websoft) 的四年级博士生，导师是 [胡伟教授](http://ws.nju.edu.cn/~whu)。我的研究兴趣涵盖了一系列领域：图基座模型及其与大语言模型的双向增强、知识图谱、终身学习和图增强的语言问答。
+我目前是南京大学计算机科学与技术系 [Websoft研究组](http://ws.nju.edu.cn/wiki/Wiki.jsp?page=Websoft) 的四年级博士生，导师是 [胡伟教授](http://ws.nju.edu.cn/~whu)。我的研究兴趣涵盖了一系列领域：图基座模型及其与大语言模型的双向增强、知识图谱、终身学习和知识增强的自然语言问答。
 ## 教育背景
 - 博士，南京大学，计算机科学与技术系，导师 [胡伟](http://ws.nju.edu.cn/~whu) （2021 - 至今）
 - 硕士，南京航空航天大学，计算机科学与技术学院，导师 [李静](https://faculty.nuaa.edu.cn/lj12/zh_CN/index.htm) （2018 - 2021）
@@ -36,11 +36,12 @@ redirect_from:
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
   - TKDE'25, CCF推荐A类国际期刊 \[[Paper](https://ieeexplore.ieee.org/document/10897840)\|[Code](https://github.com/websoft/CLP)\] 
-- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
+- 基于链接实体回放的多源知识图谱终身表示学习
+[comment]: <> (- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning )
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
-  - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://arxiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
+  - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://ar*xiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
 - A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
-  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
+  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* 
   - JCRD'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 - Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
@@ -48,7 +49,9 @@ redirect_from:
 - Inductive Knowledge Graph Reasoning for Multi-Batch Emerging Entities 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu 
   - CIKM'22, CCF推荐B类国际会议 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\]
-- Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling
+
+[comment]: <> (- Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling)
+- 	Duration-HyTE:基于持续时间建模的时间感知知识表示学习方法
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
@@ -61,12 +64,14 @@ redirect_from:
 - Improving Continual Relation Extraction by Distinguishing Analogous Semantics  
   - Wenzheng Zhao, <u>Yuanning Cui</u>, Wei Hu 
   - ACL'23, CCF推荐A类国际会议 \[[Paper](https://arxiv.org/pdf/2305.06620)\|[Code](https://github.com/nju-websoft/CEAR)\] 
-- Lifelong Representation Learning of Multi-sourced Knowledge Graphs via Linked Entity Replay  
+
+[comment]: <> (- Lifelong Representation Learning of Multi-sourced Knowledge Graphs via Linked Entity Replay  )
+- 	基于链接实体回放的多源知识图谱终身表示学习
   - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  
   - JoS'23, CCF推荐A类中文期刊 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\] 
-- Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
-  - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
-  - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
+  - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
+    - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
+    - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
 ## 在审论文
 - LanGraph: Synergy of Language and Graph Foundation Models for Generalized Knowledge Graph Question Answering
