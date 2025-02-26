@@ -35,14 +35,16 @@ redirect_from:
 ## 一作论文
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - TKDE'25, CCF推荐A类国际期刊 \[[Paper](https://ieeexplore.ieee.org/document/10897840)\|[Code](https://github.com/websoft/CLP)\] 
-- 基于链接实体回放的多源知识图谱终身表示学习
-[comment]: <> (- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning )
+- A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
   - NeurIPS'24, CCF推荐A类国际会议 \[[Paper](http://ar*xiv.org/abs/2410.12288)\|[Code](https://github.com/nju-websoft/KG-ICL)\]
-- A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts
+
+[comment]: <> (- A Pre-trained Universal Knowledge Graph Reasoning Model Based on Rule Prompts)
+[comment]: <> (  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* )
+[comment]: <> (  - JCRD'24, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
+- 基于规则提示的知识图谱通用推理预训练模型
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* 
-  - JCRD'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+  - 计算机研发'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 - Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
   - AAAI'23, CCF推荐A类国际会议 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25539/25311)\|[Code](https://github.com/nju-websoft/LKGE)\]
@@ -51,9 +53,15 @@ redirect_from:
   - CIKM'22, CCF推荐B类国际会议 \[[Paper](https://arxiv.org/pdf/2208.10378)\|[Code](https://github.com/nju-websoft/MBE)\]
 
 [comment]: <> (- Duration-HyTE: A Time-Aware Knowledge Representation Learning Method Based on Duration Modeling)
-- 	Duration-HyTE:基于持续时间建模的时间感知知识表示学习方法
+
+[comment]: <> (  - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo)
+
+[comment]: <> (  - JCRD'20, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
+
+- 	Duration-HyTE: 基于持续时间建模的时间感知知识表示学习方法
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
-  - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+  - 计算机研发'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
+
 
 <br>
 
@@ -65,13 +73,17 @@ redirect_from:
   - Wenzheng Zhao, <u>Yuanning Cui</u>, Wei Hu 
   - ACL'23, CCF推荐A类国际会议 \[[Paper](https://arxiv.org/pdf/2305.06620)\|[Code](https://github.com/nju-websoft/CEAR)\] 
 
-[comment]: <> (- Lifelong Representation Learning of Multi-sourced Knowledge Graphs via Linked Entity Replay  )
-- 	基于链接实体回放的多源知识图谱终身表示学习
+[comment]: <> (- Lifelong Representation Learning of Multi-sourced Knowledge Graphs via Linked Entity Replay)
+
+[comment]: <> (  - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  )
+
+[comment]: <> (  - JoS'23, CCF推荐A类中文期刊 \[[paper]&#40;https://www.jos.org.cn/josen/article/pdf/6887&#41;\|[Code]&#40;https://github.com/nju-websoft/LifeKE&#41;\])
+- 基于链接实体回放的多源知识图谱终身表示学习
   - Zequn Sun, <u>Yuanning Cui</u>, Wei Hu  
-  - JoS'23, CCF推荐A类中文期刊 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\] 
-  - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
-    - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
-    - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
+  - 软件学报'23, CCF推荐A类中文期刊 \[[paper](https://www.jos.org.cn/josen/article/pdf/6887)\|[Code](https://github.com/nju-websoft/LifeKE)\]
+- Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
+  - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
+  - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
 
 ## 在审论文
 - LanGraph: Synergy of Language and Graph Foundation Models for Generalized Knowledge Graph Question Answering
