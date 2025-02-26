@@ -54,7 +54,7 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 ## First-author Papers
 - Transfer-and-Fusion: Integrated Link Prediction across Knowledge Graphs
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu 
-  - TKDE'25, CCF推荐A类国际期刊 \[[Code](https://github.com/websoft/CLP)\] 
+  - TKDE'25, CCF推荐A类国际期刊 \[[Paper](https://ieeexplore.ieee.org/document/10897840)\|[Code](https://github.com/websoft/CLP)\] 
 
 - A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning 
   - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu
