@@ -44,7 +44,7 @@ redirect_from:
 [comment]: <> (  - <u>Yuanning Cui</u>, Zequn Sun, Wei Hu* )
 [comment]: <> (  - JCRD'24, CCF推荐A类中文期刊 \[[Paper]&#40;https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS&#41;\|[Code]&#40;#&#41;\])
 - 基于规则提示的知识图谱通用推理预训练模型
-  - <u>崔员宁</u>, 孙泽群, 胡伟* 
+  - <u>崔员宁</u>, 孙泽群, 胡伟
   - 计算机研发'24, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=Dm4VI7mKrXM7LHO7XuR5Ah1spGUmXEYVjzxlukLRdzjDjjtsVlP874zQ4fWBzBskh7KSAIM4x4wp5d3rYYrZNNZn04-R1dXZ8s1HxHrepbHqk2hpllLo1B6ca57ZBpnKmPVjANx6qVXMqXQycCrajoJ09aTWDb5ZN6UaXGuPOiC6WJAO7_JHKXwlj2C2SG1z&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 - Lifelong Embedding Learning and Transfer for Growing Knowledge Graphs 
   - <u>Yuanning Cui</u>, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
