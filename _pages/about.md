@@ -29,6 +29,7 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 # Recent News
+- [*2025.04*] One co-author paper accepted to SIGIR'2025!
 - [*2025.02*] One 1st-author paper accepted to TKDE'2025!
 - [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL at Tongji University!
 - [*2024.11*] Invited by [LMG 2024](http://lmg.cipsc.org.cn/conference/cips-lmg2024/index.html) to show our [poster](https://github.com/nju-websoft/KG-ICL/blob/main/poster.pdf) about KG-ICL!
@@ -36,8 +37,10 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - [*2024.09*] One 1st-author paper accepted to NeurIPS'2024!
 - [*2024.07*] Invited by [CCDM 2024](https://ccf.org.cn/CCDM2024/general_3024) to give a talk on RulePrem.
 - [*2024.06*] One 2nd-author paper accepted to ISWC'2024!
-- [*2024.05*] One 1st-author paper accepted to JCRD'2024!
-- [*2024.05*] One research project (led by me) under the Jiangsu Province Graduate Innovation Program, successfully concluded!
+
+[//]: # (- [*2024.05*] One 1st-author paper accepted to JCRD'2024!)
+
+[//]: # (- [*2024.05*] One research project &#40;led by me&#41; under the Jiangsu Province Graduate Innovation Program, successfully concluded!)
 
 # Publications
 
@@ -66,7 +69,11 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
   - <u>Yuanning Cui</u>, Jing Li, Li Shen, Yang Shen, Lin Qiao, Jue Bo
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
-## Second-author Papers
+## Co-author Papers
+
+- Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph
+  - Qiaosheng Chen, Kaijia Huang, Xiaozhou, Weiqing Luo, <u>Yuanning Cui</u>, Gong Cheng
+  - SIGIR'25, CCF推荐A类国际会议
 
 - Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation  
   - Zhoutian Shao, <u>Yuanning Cui</u>, Wei Hu   
@@ -82,7 +89,7 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 
 - Facing Changes: Continual Entity Alignment for Growing Knowledge Graphs  
   - Yuxin Wang, <u>Yuanning Cui</u>, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu  
-  - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\] 
+  - ISWC'22, CCF推荐B类国际会议 \[[paper](https://arxiv.org/pdf/2207.11436)\|[Code](https://github.com/nju-websoft/ContEA)\]
 
 ## Under-review Papers
 - LanGraph: Synergy of Language and Graph Foundation Models for Generalized Knowledge Graph Question Answering
