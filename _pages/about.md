@@ -29,6 +29,7 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
 - Bachelor, China University of Mining and Technology, School of Computer Science and Technology (2014 - 2018)
 
 # Recent News
+- [*2025.04*] One co-author paper accepted to FCS'2025!
 - [*2025.04*] One co-author paper accepted to SIGIR'2025!
 - [*2025.02*] One 1st-author paper accepted to TKDE'2025!
 - [*2024.11*] Invited by OpenKG to give a [talk](https://github.com/nju-websoft/KG-ICL/blob/main/OpenKG-Slides-11.21.pdf) on KG-ICL at Tongji University!
@@ -70,6 +71,11 @@ My research interest covers a range of issues: Graph Foundation Model, Knowledge
   - JCRD'20, CCF推荐A类中文期刊 \[[Paper](https://kns.cnki.net/kcms2/article/abstract?v=iAN2XHIMbKv9vGU554HyrEtVJcU5_YanS7VkxsgoI5O3ICEpPdsZsnBsZwd_ppH_Fo4uZv2sgGz4J1jcwPfUlqsb_iwt2quuKzaLT39NPaO6sDV6mwGh9Z_Zs5yj_OPjngJDE-F8mksSLxl98nxgTznUyxHut420VQhHQJUsXpD-B2u5yZC-r81E9tSborFn&uniplatform=NZKPT&language=CHS)\|[Code](#)\]
 
 ## Co-author Papers
+
+- Missing Data Recovery for Heterogeneous Graphs with Incremental Multi-Source Data Fusion
+  - Yang Liu, Xiaoxia Jiang, <u>Yuanning Cui</u>, Yu Wang, Wei Hu
+  - FCS'2025, CCF推荐B类国际期刊
+
 
 - Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph
   - Qiaosheng Chen, Kaijia Huang, Xiaozhou, Weiqing Luo, <u>Yuanning Cui</u>, Gong Cheng
